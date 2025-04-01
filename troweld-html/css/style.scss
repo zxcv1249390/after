@@ -618,13 +618,15 @@ a:focus {
         }
       }
 
+      button.owl-next {
+        right: 25px;
+      }
+
       button.owl-prev {
         left: 25px;
       }
 
-      button.owl-next {
-        right: 25px;
-      }
+
     }
 
   }
